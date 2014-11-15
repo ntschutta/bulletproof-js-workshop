@@ -1,0 +1,7 @@
+Node REPL
+
+* At the command line: 
+`node`
+* At the prompt type:
+` a = [ ‘node’, ‘grunt’, ‘jasmine’] `
+`a.length`
