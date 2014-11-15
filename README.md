@@ -25,7 +25,7 @@ In addition, you should have a text editor though you can certainly use an IDE i
 Lastly, please install [git](http://git-scm.com) on your machine ([downloads here](http://git-scm.com/downloads)). This repo consists of a set of branches; being able to move from one branch to another may be very helpful should you get lost, fall behind or just have one of those days.
 
 ##Warning - Command Line Ahead!##
-Much of the work we will do in this workshop will center around the command line. If you aren't comfortable typing commands in to a prompt, you may wish to attend a different session, make a friend, or just follow along with the rest of the class. If you are on a Windows machine, you may want to use [Console2](http://www.hanselman.com/blog/Console2ABetterWindowsCommandPrompt.aspx) (download [here](http://sourceforge.net/projects/console/files/)), [PowerShell](http://technet.microsoft.com/en-us/library/hh847837.aspx) or [Cygwin](http://www.cygwin.com).
+Much of the work we will do in this workshop will center around the command line. If you aren't comfortable typing commands in to a prompt, you may wish to attend a different session, make a friend, or just follow along with the rest of the class. If you are on a Windows machine, you may want to use [Console2](http://www.hanselman.com/blog/Console2ABetterWindowsCommandPrompt.aspx) (download [here](http://sourceforge.net/projects/console/files/)), [PowerShell](http://technet.microsoft.com/en-us/library/hh847837.aspx),  [Cygwin](http://www.cygwin.com) or [Babun](http://babun.github.io).
 
 ##What We'll Cover##
 The Goal is simple: show you what we can do to make our JavaScript code better. To this end, we'll focus on:
