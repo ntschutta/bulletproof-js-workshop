@@ -1,0 +1,8 @@
+#I’ll Have a Mocha!#
+
+* Install Mocha 
+`npm install -g mocha`
+* Create a new directory in the test folder
+* Write a few tests against a JavaScript object
+* Execute said tests - from the “mocha” directory:
+` mocha`
