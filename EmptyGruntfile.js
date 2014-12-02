@@ -3,7 +3,7 @@ module.exports = function(grunt) { 
     pkg: grunt.file.readJSON('package.json') ,
 
     //templates will go here
-    }
+    
   });
     //tasks will go here
 
